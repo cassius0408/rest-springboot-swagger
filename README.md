@@ -1,11 +1,12 @@
-## API Rest, Documentada com Spring Web e Swagger
-Projeto SpringBoot RESTfull, com Swagger e tratamento Exception Handler.
+## API Rest, documentada com Spring Web e Swagger
+Projeto Crud de produto e pedido em SpringBoot RESTfull, com Swagger e tratamento Exception Handler.
 
 ## 💻 Tecnologias
 
 - Java 1.8
 - Spring Boot 2.5.5
 - H2 data base
+- JPA
 - springfox-swagger2 2.9.2
 - springfox-swagger-ui 2.9.2
 
